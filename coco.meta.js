@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         CoCo
 // @namespace    https://github.com/NAgEustiCa/1_con_kien_2_con_kien/raw/main/coco.user.js
-// @version      2022-Oct-22
+// @version      2022-Oct-23
 // @description  download coco
 // @author       You
 // @match        https://www.cocomanga.com/*/*/*.html
